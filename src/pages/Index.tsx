@@ -84,7 +84,8 @@ const boissons: { titre: string; items: Item[] }[] = [
   {
     titre: "Boissons exotiques",
     items: [
-      { name: "Bissap", price: "33 cl — 4,00 € / 50 cl — 6,00 €" },
+      { name: "33 cl — 4,00 € / 50 cl — 6,00 €" },
+      { name: "Bissap" },
       { name: "Gingembre" },
       { name: "Fruit de baobab" },
       { name: "Jus de tamarin" },
