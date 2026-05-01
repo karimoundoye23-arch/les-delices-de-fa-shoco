@@ -151,7 +151,7 @@ const Index = () => {
           <h1 className="font-display text-4xl md:text-6xl lg:text-7xl font-bold text-cream mb-4">
             La cuisine d'ici<br />et d'ailleurs
           </h1>
-          <p className="text-base md:text-lg text-cream/85 font-light mb-8 max-w-2xl mx-auto">
+          <p className="text-base md:text-lg text-cream font-light mb-8 max-w-2xl mx-auto">
             Une cuisine africaine familiale, faits maison, dans une ambiance décontractée au cœur des Vosges.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
