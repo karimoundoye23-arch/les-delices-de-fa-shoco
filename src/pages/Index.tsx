@@ -147,11 +147,11 @@ const Index = () => {
         </div>
         <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
           <img src={logo} alt="Resto Koko" className="h-32 md:h-44 w-32 md:w-44 mx-auto mb-6 rounded-full shadow-elegant" />
-          <p className="text-cream/80 uppercase tracking-[0.3em] text-xs md:text-sm mb-4">Saint-Dié-des-Vosges</p>
+          <p className="font-cursive uppercase tracking-[0.3em] text-xs md:text-sm mb-4 text-white">Saint-Dié-des-Vosges</p>
           <h1 className="font-display text-4xl md:text-6xl lg:text-7xl font-bold text-cream mb-4">
             La cuisine d'ici<br />et d'ailleurs
           </h1>
-          <p className="font-display text-base md:text-lg text-cream font-light mb-8 max-w-2xl mx-auto">
+          <p className="font-cursive text-base md:text-lg font-light mb-8 max-w-2xl mx-auto text-white">
             Une cuisine africaine familiale, faits maison, dans une ambiance décontractée au cœur des Vosges.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
